@@ -1,2 +1,3 @@
-# estudos_javascript
-Estudos sobre JavaScript da DIO
+# Estudos sobre javascript 📚
+
+Estudos sobre JavaScript com a DIO e Curso em Vídeo!
