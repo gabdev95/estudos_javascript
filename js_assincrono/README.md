@@ -8,4 +8,4 @@ Desenvolvimento de projeto para o curso <a href="https://web.dio.me/course/javas
 
 #### 📌 Visualização do projeto:
 
-<img src="assets/img/just_cats.png">
+<img src="assets/img/demo.png">
