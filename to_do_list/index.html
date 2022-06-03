@@ -3,12 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="stylesheet" href="/assets/css/style.css">
-  <script src="/assets/js/script.js"></script>
+  <link rel="stylesheet" href="/to_do_list/assets/css/style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Teste</title>
 </head>
 <body>
-  <h1>Olá, mundo!</h1>
+  <header>
+    <h1>To do list.</h1>
+  </header>
+    <section>
+    <div class="container" id="list">
+      <form id="form-tarefa">
+        <input type="text" name="início" id="txt_tarefa" placeholder="Digite aqui a sua tarefa: ">
+        <button type="submit" class="button">Adicionar</button>
+      </form>
+    </div>
+    <div id="tarefas" class="container_atv"></div>
+  </section>
+  <footer>
+    <p>Gabriele de Medeiros</p>
+  </footer>
+  <script src="/to_do_list/assets/js/script.js"></script>
 </body>
 </html>
