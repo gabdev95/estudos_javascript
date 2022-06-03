@@ -1,5 +1,7 @@
 # Contador
 
+Estudo de JavaScript a partir do Curso em Vídeo.
+
 #### 📌 Visualização do projeto:
 
 <p align="left">
