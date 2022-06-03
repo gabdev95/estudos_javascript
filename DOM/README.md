@@ -1,3 +1,3 @@
 # Manipulando DOM 🔍
 
-<img src="assets/img/demo.png">
+<img height="300em" src="assets/img/demo.png">
