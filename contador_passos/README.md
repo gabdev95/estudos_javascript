@@ -3,5 +3,5 @@
 #### 📌 Visualização do projeto:
 
 <p align="left">
-  <img height="300em" src="/variaveis_e_tipos/verificador_palindromo/img/palindromo.gif">
+  <img height="300em" src="/contador_passos/img/demo.png">
 </p>
