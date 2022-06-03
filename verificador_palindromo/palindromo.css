@@ -25,6 +25,29 @@ img {
   width: 50%;
 }
 
+input[type="text"] {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid black;
+  width: 230px;
+  margin-right: 10px;
+}
+
+button {
+  border: 1px solid purple;
+  border-radius: 5px;
+  background-color: rgb(240, 208, 240);
+  color: purple;
+  transition-duration: 0.4s;
+  text-align: center;
+  padding: 5px;
+}
+
+button:hover {
+  background-color: purple;
+  color: white;
+}
+
 footer {
   color: white;
   text-align: center;
