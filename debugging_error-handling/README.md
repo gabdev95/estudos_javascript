@@ -6,3 +6,9 @@ Atividade desenvolvida durante o curso de <a href="https://web.dio.me/course/deb
 - DOMException
 - Throw, Try / Catch e Finally
 - Objeto Error
+
+#### 📌 Visualização do projeto:
+
+<p align="left">
+  <img src="/debugging_error-handling/img/readme.png">
+</p>
