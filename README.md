@@ -1,4 +1,4 @@
-# Estudos de javascript 📚
+# Estudos de javascript 📚 <img align="center" alt="gabdev95-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 Estudos sobre JavaScript com a DIO.
 
