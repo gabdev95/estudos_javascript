@@ -1,4 +1,4 @@
-# verificador_de_palindromo
+# Verificador de Palíndromo
 
 #### 📌 Visualização do projeto:
 
